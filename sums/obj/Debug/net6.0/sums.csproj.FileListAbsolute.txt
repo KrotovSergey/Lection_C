@@ -1,0 +1,15 @@
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\bin\Debug\net6.0\sums.exe
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\bin\Debug\net6.0\sums.deps.json
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\bin\Debug\net6.0\sums.runtimeconfig.json
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\bin\Debug\net6.0\sums.dll
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\bin\Debug\net6.0\sums.pdb
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.csproj.AssemblyReference.cache
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.AssemblyInfoInputs.cache
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.AssemblyInfo.cs
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.dll
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\refint\sums.dll
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.pdb
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\sums.genruntimeconfig.cache
+C:\Users\Хозяин\Desktop\GB\Lect_c\sums\obj\Debug\net6.0\ref\sums.dll
